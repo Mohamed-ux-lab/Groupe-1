@@ -6,6 +6,7 @@ body {
     font-size: 16px;
     font-family: "Montserrat", sans-serif;
     color: rgba(0, 0, 0, .87);
+    background-color: rgba(94, 27, 27, 0.5);
     line-height: 1.6;
     margin: 0;
 }
@@ -18,7 +19,7 @@ body {
     width: 100%;
     background: #fff;
     padding: 30px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, .1);
+    box-shadow: 0 4px 30px rgba(63, 11, 11, 0.658);
     z-index: 3;
 }
 
@@ -55,7 +56,7 @@ body {
 }
 
 .main {
-    background-color: #fff;
+    background-color: #7a9b8ac7;
 }
 
 .contenaire {
@@ -100,7 +101,7 @@ body {
 }
 
 .sidebar {
-    background-color: #f8f8f8;
+    background-color: #d46eb2;
     padding: 40px;
     font-size: 17px;
     z-index: 1;
@@ -114,7 +115,7 @@ body {
     margin-top: 0;
 }
 .sidebar a{
-    color: #9f9f9f;
+    color: #7e17675d;
     text-decoration: none;
 }
 .sidebar a:hover{
