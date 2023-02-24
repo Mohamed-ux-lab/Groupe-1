@@ -6,12 +6,8 @@ body {
     font-size:30px;
     font-family: "Montserrat", sans-serif;
     color: rgba(0, 0, 0, .87);
-<<<<<<< HEAD
-    line-height: 1.2;
-=======
     background-color: rgba(94, 27, 27, 0.5);
     line-height: 1.6;
->>>>>>> d1e5dbed4b26d4e846b405c4dd7bbbbfcfaeb6d9
     margin: 0;
 }
 
@@ -40,12 +36,8 @@ body {
 }
 
 .header-nav a:hover, .header-nav a.active{
-<<<<<<< HEAD
-    color: #30061d;
-=======
     transform: scale(1);
     color: #000;
->>>>>>> d1e5dbed4b26d4e846b405c4dd7bbbbfcfaeb6d9
 }
 
 .social-links {
