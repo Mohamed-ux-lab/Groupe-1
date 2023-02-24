@@ -24,7 +24,7 @@ body {
 }
 
 .header-nav {
-    float: left;
+    text-align : center;
 }
 
 .header-nav a{
