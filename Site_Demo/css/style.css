@@ -17,9 +17,9 @@ body {
     left: 0;
     right: 0;
     width: 100%;
-    background: #fff;
+    background: #bd7171;
     padding: 30px;
-    box-shadow: 0 4px 30px rgba(63, 11, 11, 0.658);
+    box-shadow: 0 4px 30px rgba(145, 108, 108, 0.658);
     z-index: 3;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .header-nav a{
-    color: #9f9f9f;
+    color: git#d4c6c6b7;
     text-decoration: none;
     font-weight: 500;
     padding: 0 53px;
@@ -58,7 +58,7 @@ body {
 }
 
 .main {
-    background-color: #7a9b8ac7;
+    background-color: #4a1663c7;
 }
 
 .contenaire {
@@ -88,7 +88,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background: grey;
+    background: rgb(83, 75, 75);
     color: #fff;
     font-weight: bold;
     border-radius: 50%;
@@ -120,7 +120,7 @@ body {
 }
 
 .sidebar {
-    background-color: #d46eb2;
+    background-color: #b1c7ce5e;
     padding: 40px;
     font-size: 17px;
     z-index: 1;
